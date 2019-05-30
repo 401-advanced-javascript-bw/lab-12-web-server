@@ -2,7 +2,7 @@
 
 ## lab-12-web-server
 
-### Author: Jesse Von Volkinburg and Bonnie Wang
+### Author: Jesse Van Volkinburg and Bonnie Wang
 
 ### Links and Resources
 
