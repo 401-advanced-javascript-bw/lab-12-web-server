@@ -9,7 +9,7 @@
 - [submission PR](https://github.com/401-advanced-javascript-bw/lab-12-web-server/pull/1)
 - [back-end](https://github.com/401-advanced-javascript-jv/12-auth-server/tree/submission) 
 - [front-end](https://github.com/401-advanced-javascript-bw/lab-12-web-server/tree/submissionm)
-- [heroku] (http://lab-12-jb.herokuapp.com/)
+- [heroku](http://lab-12-jb.herokuapp.com/)
 
 #### Documentation
 
