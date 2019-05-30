@@ -6,11 +6,13 @@
 
 ### Overall Score and Comments
 
-#### Score (Out of 10): 7
+#### Score (Out of 10): 6
 
 #### General Comments
 
-Describe the stack (front-end only? full stack?), database, efficiency, etc. Describe the general usability and learnability
+- Generally the usability and learnability is very user friendly since it lists out all of the steps and parameters all on one page.
+- Creating the client id and client secret is straightforward.
+- The documention is
 
 #### Pros
 
