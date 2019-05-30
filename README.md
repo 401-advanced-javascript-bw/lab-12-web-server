@@ -30,6 +30,3 @@
 - Endpoint: `/oauth/github`
   - Endpoint for Github OAuth
 
-#### UML
-
-![](./images/uml.jpg)
