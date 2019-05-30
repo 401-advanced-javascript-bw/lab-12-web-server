@@ -28,6 +28,7 @@
 
 - `npm i`
 - `npm start`
-- Endpoint: `/oauth/github`
-  - Endpoint for Github OAuth
+- Endpoint: `/`
+  - Endpoint to homepage 
+
 
