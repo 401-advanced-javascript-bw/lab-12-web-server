@@ -10,6 +10,7 @@
 
 #### General Comments
 
+- Full stack app with a link to login/sign up through GitHub.
 - Generally the usability and learnability is very user friendly since it lists out all of the steps and parameters all on one page.
 - Creating the client id and client secret is straightforward.
 
@@ -46,7 +47,7 @@ Integrating this auth would be quite simple and take little effort. 4-5 hours sh
 
 #### Community Support and Adoption levels
 
-GitHub has a large community of developers with 31+ million users. If the target audience is directly, or even tangentially, related to software development, then this authorization method would be fine.
+GitHub has a large community of developers with 31+ million users. If the target audience is directly, or even tangentially, related to software development, then this authorization method would be fine. GitHub OAuth can be seen in several developer apps such as Swagger, Repl, Codepen, and Code Sandbox.
 
 ### Links and Resources
 
