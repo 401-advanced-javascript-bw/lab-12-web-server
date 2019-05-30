@@ -56,7 +56,7 @@ GitHub has a large community of developers with 31+ million users. If the target
 
 ### Code Demos
 
-- [live/running application](http://xyz.com)
+- [live/running application](https://dashboard.heroku.com/apps/lab-12-jb)
 - [Front-end code repository](https://github.com/401-advanced-javascript-bw/lab-12-web-server/tree/submission)
 - [Back-end code repository](https://github.com/401-advanced-javascript-jv/12-auth-server/tree/submission)
 
